@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif ;
+}
+
+.pdfview {
+    margin:auto;
+    display: black;
+    width: 850px;
+    height: 100px;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background:black;
+}
+h4{
+    text-align: justify;
+}
+a{
+    text-align: justify;
+}
+embed{
+    margin-top: 30px;
+}
